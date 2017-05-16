@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Jundo
 //
-//  Created by Taha Abdalla on 26/04/2017.
+//  Created by TA on 26/04/2017.
 //  Copyright © 2017 Splynter Inc. All rights reserved.
 //
 
